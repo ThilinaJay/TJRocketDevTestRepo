@@ -1,0 +1,950 @@
+PROGRAM SALES.ORDER.MONSTER
+* Monster UniVerse BASIC Program
+* Intentionally verbose and repetitive
+
+OPEN "DUMMY.FILE" TO F.DUMMY ELSE STOP
+
+* -------- SECTION 1 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 2 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 3 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 4 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 5 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 6 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 7 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 8 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 9 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 10 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 11 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 12 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 13 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 14 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 15 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 16 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 17 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 18 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 19 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 20 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 21 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 22 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 23 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 24 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 25 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 26 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 27 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 28 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 29 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 30 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 31 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 32 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 33 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 34 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 35 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 36 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 37 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 38 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 39 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 40 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 41 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 42 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 43 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 44 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 45 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 46 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 47 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 48 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 49 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 50 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 51 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 52 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 53 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 54 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 55 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 56 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 57 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 58 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 59 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 60 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 61 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 62 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 63 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 64 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 65 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 66 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 67 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 68 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 69 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 70 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 71 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 72 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I
+   IF TOTAL > 10 THEN
+      TOTAL = TOTAL - 1
+   END
+REPEAT
+
+* -------- SECTION 73 --------
+LOOP
+   INPUT VALUE
+   IF VALUE = "" THEN EXIT
+   TOTAL = 0
+   FOR I = 1 TO 10
+      TOTAL += I
+   NEXT I

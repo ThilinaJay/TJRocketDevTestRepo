@@ -1,0 +1,38 @@
+
+PROGRAM USER.MANAGEMENT.MONSTER
+* User Management Monster Program
+* Handles authentication, roles, permissions, validations (procedural)
+
+OPEN "USERS" TO F.USERS ELSE STOP
+OPEN "ROLES" TO F.ROLES ELSE STOP
+
+LOOP
+   INPUT ACTION
+   IF ACTION = "" THEN EXIT
+
+   BEGIN CASE
+      CASE ACTION = "CREATE"
+         INPUT USER.ID
+         INPUT ROLE
+         USER.REC<1> = USER.ID
+         USER.REC<2> = ROLE
+         USER.REC<3> = DATE()
+         WRITE USER.REC ON F.USERS, USER.ID
+
+      CASE ACTION = "VALIDATE"
+         INPUT USER.ID
+         READ USER.REC FROM F.USERS, USER.ID ELSE
+            CRT "INVALID USER"
+            CONTINUE
+         END
+         IF USER.REC<2> = "ADMIN" THEN CRT "ADMIN ACCESS"
+
+      CASE ACTION = "LIST"
+         SELECT F.USERS
+         LOOP
+            READNEXT ID ELSE EXIT
+            CRT ID
+         REPEAT
+   END CASE
+REPEAT
+END
