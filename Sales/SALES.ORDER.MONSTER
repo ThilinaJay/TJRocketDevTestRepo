@@ -948,3 +948,9 @@ LOOP
    FOR I = 1 TO 10
       TOTAL += I
    NEXT I
+
+SELECT OPTION
+
+CASE 1
+    GOSUB ADD_CUSTOMER                         
+END
